@@ -197,22 +197,22 @@ for jj=1:M
     vnew(:,jj)=xi*chedfft(Psinew(:,jj));
 end
 
-      subaxis(1, 3, 1, 'Spacing', 0.05, 'Padding', 0, 'Margin', 0.12),
-      imagesc(Y,Z,unew), title('x-velocity','FontSize',16),caxis([0, 1]),colorbar,
-      xlabel('y','FontSize',14);
-      ylabel('z','FontSize',14);
-      subaxis(1, 3, 2, 'Spacing', 0.05, 'Padding', 0, 'Margin', 0.12),
-      imagesc(Y,Z,Omeganew),title('x-vorticity','FontSize',16),caxis([-4, 4]),colorbar,
-      xlabel('y','FontSize',14);
-      subaxis(1, 3, 3, 'Spacing', 0.05, 'Padding', 0, 'Margin', 0.12),
-      imagesc(Y,Z,Psinew),title('streamfunction','FontSize',16),caxis([-0.4, 0.4]),colorbar,
-      xlabel('y','FontSize',14);
+      subaxis(1, 3, 1, 'Spacing', 0, 'Padding', 0, 'Margin', 0.07),
+             imagesc(Y,Z,unew), title('x-velocity'),caxis([0, 1]),colorbar,
+      xlabel('y');
+      ylabel('z');
+      subaxis(1, 3, 2, 'Spacing', 0, 'Padding', 0, 'Margin', 0.07),
+             imagesc(Y,Z,Omeganew),title('x-vorticity'),caxis([-4, 4]),colorbar,
+      xlabel('y');
+      subaxis(1, 3, 3, 'Spacing', 0, 'Padding', 0, 'Margin', 0.07),
+             imagesc(Y,Z,Psinew),title('streamfunction'),caxis([-0.4, 0.4]),colorbar,
+      xlabel('y');
 
       set(gcf, 'PaperUnits', 'inches');
-      x_width=15 ;y_width=4;
+      x_width=15 ;y_width=4
       set(gcf, 'PaperPosition', [0 0 x_width y_width]); %
 
-if mod(kk, 50)==1
+if mod(kk, 1)==0
       fprintf(['kk = ', num2str(kk), '\n']);
       print(['fig_', num2str(kk), '.png'], '-dpng');
       close all;
