@@ -7,4 +7,10 @@ Comparably little is known about the impact of lateral density gradients (associ
 
 For more details, please take a look at
 
-[Li, Ke, Zhexuan Zhang, Greg Chini, Glenn Flierl, 2012: Langmuir Circulation: An Agent for Vertical Restratification?. J. Phys. Oceanogr., 42, 1945–1958.](http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-11-0225.1)[Full Text in PDF](https://github.com/likekeustc/Langmuir-Circulations-University-of-New-Hampshire/blob/master/materials/jpo_ke_li.pdf)
+* [Li, Ke, Zhexuan Zhang, Greg Chini, Glenn Flierl, 2012: Langmuir Circulation: An Agent for Vertical Restratification?. J. Phys. Oceanogr., 42, 1945–1958.](http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-11-0225.1) [Full Text in PDF](https://github.com/likekeustc/Langmuir-Circulations-University-of-New-Hampshire/blob/master/materials/jpo_ke_li.pdf)
+
+* [MIT Sacklunch Seminar Series](http://eaps-www.mit.edu/paoc/events/ke-li-university-new-hampshire) [Flyers](https://github.com/likekeustc/Langmuir-Circulations-University-of-New-Hampshire/blob/master/materials/flyer_KE.pdf)
+
+* [American Geophysical Union Poster](https://github.com/likekeustc/Langmuir-Circulations-University-of-New-Hampshire/blob/master/materials/Ke_Li_UNH.pdf)
+
+* [Master's Thesis at University of New Hampshire](https://github.com/likekeustc/Langmuir-Circulations-University-of-New-Hampshire/blob/master/materials/Li_thesis_MechEng_2010.pdf)
