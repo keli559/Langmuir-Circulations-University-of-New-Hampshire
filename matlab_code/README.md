@@ -7,3 +7,8 @@ The following video is depicting the homogeneous Langmuir circulation. The domai
 **video:**
 
 ![Langmuir_Circulation_Homogeneous](https://github.com/likekeustc/Langmuir-Circulations-University-of-New-Hampshire/blob/master/matlab_code/LCHomogeneous.gif)
+
+##About the Scripts
+
+**Main program:** MainProgramLC.m
+**Subfunctions:** under the folder, "link_files/" 

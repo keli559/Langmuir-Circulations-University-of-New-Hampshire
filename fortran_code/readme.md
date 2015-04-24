@@ -35,3 +35,6 @@ When the cross-front shear flow is strong as a result of strong horizontal strat
 [LC_traveling](https://drive.google.com/open?id=0B9k5oEcc2vieTDc2TFdDQjZ1R0U&authuser=0)
 
 
+##About the Scripts
+**Main program: ** KE.f
+**Subfunctions: ** under the folder, "link_files/"
