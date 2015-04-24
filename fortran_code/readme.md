@@ -37,6 +37,6 @@ When the cross-front shear flow is strong as a result of strong horizontal strat
 
 ##About the Scripts
 
-**Main program: ** KE.f
+ **Main program:** KE.f
 
-**Subfunctions: ** under the folder, "link_files/"
+ **Subfunctions:** under the folder, "link_files/"
