@@ -7,4 +7,4 @@ Comparably little is known about the impact of lateral density gradients (associ
 
 For more details, please take a look at
 
-[Li, Ke, Zhexuan Zhang, Greg Chini, Glenn Flierl, 2012: Langmuir Circulation: An Agent for Vertical Restratification?. J. Phys. Oceanogr., 42, 1945–1958. (abstract)]()
+[Li, Ke, Zhexuan Zhang, Greg Chini, Glenn Flierl, 2012: Langmuir Circulation: An Agent for Vertical Restratification?. J. Phys. Oceanogr., 42, 1945–1958. (abstract)](http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-11-0225.1)[Full Text in PDF](https://github.com/likekeustc/Langmuir-Circulations-University-of-New-Hampshire/blob/master/materials/jpo_ke_li.pdf)
